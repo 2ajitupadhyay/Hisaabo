@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CalAdvance" parent="Theme.AppCompat">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/orange</item>
+        <item name="colorOnPrimary">@color/check1</item>
+        <item name="colorPrimaryVariant">@color/check2</item>
+        <item name="android:colorPrimaryDark">@color/check4</item>
+    </style>
+
+    <style name="Theme.CalAdvance" parent="Base.Theme.CalAdvance" />
+</resources>
